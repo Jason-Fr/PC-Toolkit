@@ -19,3 +19,5 @@ OA3xOriginalProductKey
 powershell "(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey
 ```
 
+* [sysinternals Process Explorer ](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+
